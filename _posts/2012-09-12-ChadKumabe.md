@@ -7,7 +7,7 @@ image: '/images/posts/ChadKumabe.jpg'
 
 Punahou High School (Niu Valley Middle)  
 Washington University  
-Software Engineer, LiveAction, Inc - Honolulu Hawaii  
+Principal Engineer, Co-Founder, Second Wave - Honolulu Hawaii  
 
 *"I know it’s only going to get better"*
 
