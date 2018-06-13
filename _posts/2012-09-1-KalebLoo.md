@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Steven Miyakawa
+title: Kaleb Loo
 author: kagawaa
-image: '/images/posts/StevenMiyakawa.jpg'
+image: '/images/posts/KalebLoo.jpg'
 ---
 
-Castle High School  
-University of Hawaii at Manoa, Computer Science  
-Software Engineer, Here - Berkeley, California  
+Hawaii Baptist Academy  
+Seattle University  
+Firmware Engineer, Spirent Communications - Honolulu, Hawaii   
 
-*“I work as a Full Stack Web Developer for a startup called Mapistry in Oakland, CA. Best job I've ever had.”*
+*“Engineers are problem solvers and the world needs more problem solvers."*
 
-“I was born and raised in Kaneohe, HI. I went to Castle High School and then continued my education at UH Manoa where I received a BS degree in Information and Computer Science. I ended up in a business career. Over the years I had a desire to get back into coding. One day I stumbled across an article about a coding bootcamp called Dev Bootcamp in San Francisco. I immediately knew that was my ticket back into the game. Long story short, I attended Dev Bootcamp in the spring of 2013 and had an amazing experience. In the span of 9 weeks, I changed the course of my life. Now I work as a Full Stack Web Developer for a startup called Mapistry in Oakland, CA. Best job I've ever had.”
+"In the field of Engineering, you are challenged by problems that often no one else has solved before.  You get to take part in developing a solution that can impact the lives of millions of people.  The reason I became an Engineer was to do just that--and the greatest thing is, there are many opportunities available and paths to take to achieve this goal.  Engineering is involved in every industry from technology to chemistry to education to business.  As an Engineer, you have the chance to be involved in fixing the issues that you care about with the knowledge that you obtain.  Engineers are problem solvers and the world needs more problem solvers."
