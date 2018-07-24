@@ -5,12 +5,12 @@ author: kagawaa
 image: '/images/posts/MichaelMiranda.jpg'
 ---
 
-Maryknoll High School
-Gonzaga University School of Law, Law Degree
-University of Hawaii at Manoa, Information and Computer Sciences
-University of Central Florida, English
-Cybersecurity Consultant, SPARTIX
-University of Hawaii – West Oahu, Assistant Professor
+Maryknoll High School  
+Gonzaga University School of Law, Law Degree  
+University of Hawaii at Manoa, Information and Computer Sciences  
+University of Central Florida, English  
+Cybersecurity Consultant, SPARTIX  
+University of Hawaii – West Oahu, Assistant Professor  
 
 There are two things that I have learned over the years that will open more doors than you can walk through:
 
