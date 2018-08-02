@@ -2,7 +2,7 @@
 layout: post
 title: Justin Hernandez
 author: kagawaa
-image: '/images/posts/ZakJustinHernandezSakata.jpg'
+image: '/images/posts/JustinHernandez.jpg'
 ---
 
 Aiea High School  
